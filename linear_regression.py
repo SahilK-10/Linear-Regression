@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt  # For visualization
 # Step 1: Define Sample Data (House Size vs. Price)
 house_size = np.array([600, 800, 1000, 1200, 1500]
                       )  # House size in square feet
-price = np.array([150000, 200000, 250000, 300000, 375000]
+price = np.array([250000, 300000, 350000, 450000, 575000]
                  )  # Price in thousands
 
 # Step 2: Normalize Data (Centering around mean)
